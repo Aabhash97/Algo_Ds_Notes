@@ -136,57 +136,6 @@ Please discuss it with us first by creating new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
-## Code Maintainers  :sunglasses:
-
-**C**
-
-| [ayushin78](https://github.com/ayushin78) |
-| --- |
-
-**CoffeeScript**
-
-| [jainaman224](https://github.com/jainaman224) |
-| --- |
-
-**Cplusplus**
-
-| [KavyaSharma](https://github.com/KavyaSharma) | [sidgorey](https://github.com/sidgorey) | [uday1201](https://github.com/uday1201) |
-| --- | --- | --- |
-
-**CSharp**
-
-| [AnkitaKhurana](https://github.com/AnkitaKhurana) | [nihalC07](https://github.com/nihalC07) |
-| --- | --- |
-
-**Java**
-
-| [adishjain](https://github.com/adishjain) | [ayushin78](https://github.com/ayushin78) | [nj4710](https://github.com/nj4710) |
-| --- | --- | --- |
-
-**JavaScript**
-
-| [prakharcode](https://github.com/prakharcode) |
-| --- |
-
-**Markdown**
-
-| [swatinirwal](https://github.com/swatinirwal) |
-| --- |
-
-**Php**
-
-| [MehakJain96](https://github.com/MehakJain96) |
-| --- |
-
-**Python**
-
-| [jainaman224](https://github.com/jainaman224) |
-| --- |
-
-**Ruby**
-
-| [tnarkiv](https://github.com/tnarkiv) |
-| --- |
 
 ## References :clipboard: :scroll:
 
