@@ -6,14 +6,13 @@ Our open source community is focussed on understanding the concepts and while do
 
 ## Steps to follow :scroll:
 
-### 1. Fork it :fork_and_knife:
+### 1. Fork it 
 
 You can get your own fork/copy of [Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes) by using the <a href="https://github.com/jainaman224/Algo_Ds_Notes/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/jainaman224/Algo_Ds_Notes/new/master?readme=1#fork-destination-box).
 
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/jainaman224/Algo_Ds_Notes)
 
-### 2. Clone it :busts_in_silhouette:
-
+### 2. Clone it 
 You need to clone (download) it to local machine using
 
 ```sh
@@ -78,7 +77,7 @@ $ git reset --hard upstream/master
 $ git push origin master
 ```
 
-### 5. Ready Steady Go... :turtle: :rabbit2:
+### 5. Ready Steady Go...:rabbit2:
 
 Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/jainaman224/Algo_Ds_Notes/pulls).
 
